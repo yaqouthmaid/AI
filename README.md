@@ -1,5 +1,8 @@
 # AI
 
+Using : Dijkstra and A*
+
+
 Develop a simulation program (in JAVA) that takes as input (Palestine map, current town, goal town), and
 returns the path to the goal (shown on the screen), and the algorithm’s time and space complexities.
 
