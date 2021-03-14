@@ -25,6 +25,8 @@ returns the path to the goal (shown on the screen), and the algorithm’s time a
 ----------------------project three description ---------------------------
 
 
+*Corpus included in .zip file
+
 BuildaTri-gram language model.
 
 Each student needs to collect an Arabic corpus of 10000 words at least, but the more is better. A bonus will be given if the corpus contains any Arabic dialect.
