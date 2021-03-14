@@ -1,5 +1,7 @@
 # AI
 
+----------------------project one description ---------------------------
+
 Using : Dijkstra and A*
 
 
@@ -18,3 +20,17 @@ returns the path to the goal (shown on the screen), and the algorithm’s time a
 2. towns.csv the list of towns, and the coordination (x, y) of each town on the screen.
 
 3. roads.csv the list of roads/links between towns, and the distance between them.
+
+
+----------------------project three description ---------------------------
+
+
+BuildaTri-gram language model.
+
+Each student needs to collect an Arabic corpus of 10000 words at least, but the more is better. A bonus will be given if the corpus contains any Arabic dialect.
+
+Students cannot use the same corpus, fully or partially.
+
+Tokenize the corpus into tokens/words, then build a tri-gram model for this corpus. That is, your language model is a table that contains: the token, the token counts, and the token probability.
+
+Develop a program to illustrate how to use your language model, for example, an auto-complete search box in a web form, a spell-checker, a language corrector like Grammarly, or any application you like.
